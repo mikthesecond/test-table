@@ -38,18 +38,7 @@ CRUD операции (Create, Read, Update, Delete)
 
 Поддержка разных типов данных (текст, дата, число)
 
-🖥 Установка и запуск
-Клонируйте репозиторий:
-
-bash
-git clone https://github.com/ваш-ник/таблица-crud.git
-Установите зависимости:
-
-bash
-npm install
-Запустите приложение:
-
-bash
-npm start
 📸 Скриншоты
 <img width="1320" height="1092" alt="image" src="https://github.com/user-attachments/assets/c8e0a68e-3581-4414-b68c-bae5d7c5279d" />
+<img width="1192" height="870" alt="image" src="https://github.com/user-attachments/assets/17c4041f-4cc0-4add-9f22-75da6b2bde07" />
+
